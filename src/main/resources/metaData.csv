@@ -1,0 +1,4 @@
+Table Name,Column Name,Column Type,ClusteringKey,IndexName,IndexType, min, max
+table,gpa,java.lang.Double,false,null,null,0,4.00
+table,name,java.lang.String,false,null,null,aaaaaaaa,zzzzzzzz
+table,id,java.lang.Integer,true,null,null,0000000,9999999
